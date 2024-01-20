@@ -1,0 +1,62 @@
+h1
+{
+    font-family: "Bungee Spice", sans-serif;
+}
+
+h2
+{
+    font-family: "Lemon";
+}
+
+ul
+{
+    font-family: "Dancing Script", cursive;
+    color: greenyellow;
+}
+
+ol
+{
+    font-family: "Anton", sans-serif;
+    color: gold;
+}
+
+body
+{
+    color: white;
+    font-size: 24px;
+    background-color: indigo;
+}
+
+img
+{
+
+    border: 3px solid black;
+    border-radius: 10%;
+}
+
+p
+{
+    font-family: 'fantasy', "Curlz MT";
+    font-size: 24px;
+}
+
+table, td, th
+{
+    border: 2px solid #ef3309;
+    border-collapse: collapse;
+}
+
+#Gasoline
+{
+    color: orange;
+}
+#Propane-butane
+{
+    color: orange;
+}
+#Hydrogen
+{
+    color: orange;
+}
+
+
