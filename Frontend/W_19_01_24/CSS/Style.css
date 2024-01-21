@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik+Burned&display=swap');
+body
+{
+    font-family: 'Raleway', sans-serif;
+}
+.header
+{
+   height: 400px;
+    background-image: url("../Images/coffee-bgnd.jpeg");
+    font-family: 'Rubik Burned', system-ui;
+    font-size: 32px;
+    background-position: center;
+}
+ul
+{
+    list-style: none;
+}
